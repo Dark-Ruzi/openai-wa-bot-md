@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-ai-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot using OpenAI API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.4.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
